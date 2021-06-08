@@ -1,2 +1,2 @@
 # Assessments_AceCademy
-Solutions of Assessments provided by AceCademy for training provided by Extramarks
+Solutions of Assessments provided by AceCademy for training in Extramarks.
