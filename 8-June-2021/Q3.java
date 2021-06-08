@@ -1,3 +1,6 @@
+// Java-Abstract-Class 
+//Question link: https://www.hackerrank.com/challenges/java-inheritance-1/problem
+
 import java.util.*;
 abstract class Book{
 	String title;
@@ -12,7 +15,7 @@ class MyBook extends Book{
         title=s;
     }
 }
-public class Main{
+public class Q3{
 	
 	public static void main(String []args){
 		//Book new_novel=new Book(); This line prHMain.java:25: error: Book is abstract; cannot be instantiated

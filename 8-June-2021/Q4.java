@@ -1,3 +1,6 @@
+//Java-Interface
+//Question link: https://www.hackerrank.com/challenges/java-interface/problem
+
 import java.util.*;
 interface AdvancedArithmetic{
   int divisor_sum(int n);
@@ -18,7 +21,7 @@ class MyCalculator implements AdvancedArithmetic{
     }
 }
 
-class Solution{
+class Q4{
     public static void main(String []args){
         MyCalculator my_calculator = new MyCalculator();
         System.out.print("I implemented: ");

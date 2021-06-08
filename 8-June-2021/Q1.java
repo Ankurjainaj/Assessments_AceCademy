@@ -1,3 +1,6 @@
+//Java-Inheritance-1
+//Question link: https://www.hackerrank.com/challenges/java-inheritance-1/problem
+
 import java.io.*;
 import java.util.*;
 import java.text.*;
@@ -19,7 +22,7 @@ class Bird extends Animal{
     }
 }
 
-public class Solution{
+public class Q1{
 
    public static void main(String args[]){
 

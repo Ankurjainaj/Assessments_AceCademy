@@ -1,3 +1,6 @@
+//Java-Method-Overriding
+//Question link: https://www.hackerrank.com/challenges/java-method-overriding/problem
+
 import java.util.*;
 class Sports{
 
@@ -22,7 +25,7 @@ class Soccer extends Sports{
     
 }
 
-public class Solution{
+public class Q5{
 	
     public static void main(String []args){
         Sports c1 = new Sports();

@@ -1,3 +1,6 @@
+//Java-Inheritance-2
+//Question link: https://www.hackerrank.com/challenges/java-inheritance-2/problem
+
 import java.io.*;
 import java.util.*;
 import java.text.*;
@@ -16,7 +19,7 @@ class Adder extends Arithmetic{
 
 }
 
-public class Solution{
+public class Q2{
     public static void main(String []args){
         // Create a new Adder object
         Adder a = new Adder();

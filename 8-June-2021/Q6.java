@@ -1,3 +1,6 @@
+//Java-Method-Overriding-2-Super-Keyword
+//Question link: https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword/problem
+
 import java.util.*;
 import java.io.*;
 
@@ -21,7 +24,7 @@ class MotorCycle extends BiCycle{
 	}
 	
 }
-class Solution{
+class Q6{
 	public static void main(String []args){
 		MotorCycle M=new MotorCycle();
 	}
